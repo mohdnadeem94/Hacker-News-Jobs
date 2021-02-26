@@ -1,0 +1,22 @@
+.jobsDescription {
+  margin: 2%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  border-radius: 5px;
+  border: solid 1.5px grey;
+  padding: 2.5%;
+}
+
+.jobsDescription h3 {
+  margin-bottom: 10px;
+}
+
+.jobsDescription p {
+  padding: 4px;
+}
+
+.jobsDescription h4 {
+  margin-top: 5px;
+  padding: 4px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

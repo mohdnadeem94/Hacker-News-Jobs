@@ -1,0 +1,9 @@
+.navbar h1 {
+  height: 50px;
+  width: 100%;
+  background-color: antiquewhite;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 10px;
+  padding-top: 20px;
+  text-align: center;
+}

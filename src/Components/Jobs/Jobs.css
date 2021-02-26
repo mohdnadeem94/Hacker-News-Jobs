@@ -1,0 +1,13 @@
+.jobs {
+  margin: 3.5%;
+}
+
+.jobs_total_count {
+  margin-left: 80%;
+  text-align: center;
+  border: solid 1px grey;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  padding: 5px;
+  max-width: 150px;
+}
